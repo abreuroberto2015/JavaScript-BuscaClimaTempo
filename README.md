@@ -1,1 +1,1 @@
-# busca_clima - Criado por: Roberto abreu durante a aula da B7Web
+Buscador de clima - criada durante o curso de JavaScript da B7Web
